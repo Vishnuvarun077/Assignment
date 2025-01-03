@@ -1,7 +1,9 @@
 
 # Vasitum Dashboard Project
 
-This project implements a modern, responsive dashboard interface for Vasitum, showcasing various UI components and responsive design patterns.
+This project implements a modern, responsive dashboard interface for Vasitum, showcasing various UI components and responsive design patterns.This project implements a modern, responsive dashboard interface for Vasitum, showcasing various UI components and responsive design patterns.This project implements a modern, responsive dashboard interface for Vasitum, showcasing various UI components and responsive design patterns.This project implements a modern, responsive dashboard interface for Vasitum, showcasing various UI components and responsive design patterns.
+You can view the deployed website use the following link:
+`https://vasitumdashboard-steel-pi.vercel.app/`
 
 ## How Requirements Were Implemented
 
